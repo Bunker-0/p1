@@ -3,11 +3,3 @@ Aquamarine
 Maroon
 Fuscia
 Puce
-Khaki
-Yellow
-Purple
-Orange
-Crimson
-Violet
-Maroon
-Goldenrod
